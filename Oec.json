@@ -38,7 +38,7 @@
     },
 	{
       "name" : "Esign",
-      "bundleIdentifier" : "com.google.ios.youtube.58X4ZT6ASM",
+      "bundleIdentifier" : "com.yyyue.esign",
       "developerName" : "yyy",
       "subtitle" : "Have more than 3 apps with certicates",
       "localizedDescription" : "Note without a certicate you can't sideload anything with this app",
