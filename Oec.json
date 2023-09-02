@@ -1,10 +1,10 @@
 {
-  "name" : "WuXu's Library++",
-  "identifier" : "com.wuxulibs.wuxuslibrary++",
-  "subtitle" : "The Most Up-To-Date IPA Library on AltStore.",
-  "description" : "Welcome to WuXu’s Library++ and more!",
-  "iconURL" : "https://i.imgur.com/g17kMl9.png",
-  "headerURL" : "https://i.pinimg.com/736x/2e/4c/7c/2e4c7cc6b2a52a3113b6f1328d9d1e97.jpg",
+  "name" : "Oec's Library++",
+  "identifier" : "com.oeclibs.oeclibrary++",
+  "subtitle" : "The Most Up-To-Date IPA Library on Sidestorecom.",
+  "description" : "Welcome to Oec’s Library++ and more!",
+  "iconURL" : "https://s2.coinmarketcap.com/static/img/exchanges/64x64/319.png",
+  "headerURL" : "https://cdn.aex.news/img/banner_logo/aexlogo_en_20210721.png",
   "website" : "https://bit.ly/wuxus-sources",
   "tintColor" : "d81a14",
   "apps" : [
@@ -41,10 +41,10 @@
     },
         {
       "name" : "Duolingo++",
-      "bundleIdentifier" : "com.atebits.Tweetie2",
-      "developerName" : "BandarHL",
-      "subtitle" : "An awesome tweak for Twitter!",
-      "localizedDescription" : "Duolingo the langauge learing app now injected with Premium",
+      "bundleIdentifier" : "com.duolingo,DuolingoMoblie",
+      "developerName" : "Oectect",
+      "subtitle" : "An awesome tweak for Duolingo",
+      "localizedDescription" : "Duolingo now injected with Premium",
       "iconURL" : "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/27/20/96/27209679-d337-1ef8-c443-4c986a4a677e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.webp",
       "tintColor" : "00ff00",
       "screenshotURLs" : [
