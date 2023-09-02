@@ -1,14 +1,42 @@
 {
   "name" : "Oec's Library++",
   "identifier" : "com.oeclibs.oeclibrary++",
-  "subtitle" : "The Most Up-To-Date IPA Library on Sidestorecom.",
+  "subtitle" : "The Most Up-To-Date IPA Library on Sidestore.",
   "description" : "Welcome to Oec’s Library++ and more!",
   "iconURL" : "https://s2.coinmarketcap.com/static/img/exchanges/64x64/319.png",
   "headerURL" : "https://cdn.aex.news/img/banner_logo/aexlogo_en_20210721.png",
-  "website" : "https://bit.ly/wuxus-sources",
+  "website" : "https://oectect.github.io/Items/Oec.json",
   "tintColor" : "d81a14",
   "apps" : [
-    {
+     {
+      "name" : "iVanced",
+      "bundleIdentifier" : "com.google.ios.youtube.58X4ZT6ASM",
+      "developerName" : "Oectect",
+      "subtitle" : "Youtube with cool logo :)",
+      "localizedDescription" : "iVanced for YouTube is a modded application for iPhone user with or without jailbreak. iVanced supports adblocking,dislikes,skip sponsors (iSponsorBlock) and many more customizations and features! The app is also 100% free.",
+      "iconURL" : "https://static.appdb.to/images/cydia-1900001075-icon-1685031655.png",
+      "tintColor" : "00008B",
+      "screenshotURLs" : [
+        "https://raw.githubusercontent.com/Oectect/Items/main/IMG_2390.png",
+        "https://raw.githubusercontent.com/Oectect/Items/main/IMG_2389.png"
+      ],
+      "version" : "18.20.03",
+      "versionDate" : "2023-05-25",
+      "downloadURL" : "https://github.com/Oectect/Items/releases/download/Item/iVanced_18.20.3.ipa",
+      "versionDescription" : "Note: might be outdated",
+      "size" : 118920,
+      "versions" : [
+        {
+          "version" : "18.20.03",
+          "date" : "2023-05-25",
+          "localizedDescription" : "Note: might be outdated",
+          "downloadURL" : "https://github.com/Oectect/Items/releases/download/Item/iVanced_18.20.3.ipa",
+          "size" : 118920
+        }
+      ],
+      "beta" : false
+    },
+	{
       "name" : "Twitter++",
       "bundleIdentifier" : "com.atebits.Tweetie2",
       "developerName" : "BandarHL",
