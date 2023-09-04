@@ -43,6 +43,35 @@
       ],
       "beta" : false
     },
+	{
+      "name" : "Esign",
+      "bundleIdentifier" : "com.yyyue.esign",
+      "developerName" : "yyy",
+      "subtitle" : "Have more than 3 apps with certicates",
+      "localizedDescription" : "Note without a certicate you can't sideload anything with this app",
+      "iconURL" : "https://esign.yyyue.xyz/ESignLogo200.png",
+      "tintColor" : "5FBAEE",
+      "screenshotURLs" : [
+        "https://raw.githubusercontent.com/Oectect/Items/main/Esign%20image.png",
+        "https://raw.githubusercontent.com/Oectect/Items/main/IMG_2391.png"
+      ],
+      "version" : "4.8.2",
+      "versionDate" : "2023-05-25",
+      "downloadURL" : "https://pan.yyyue.xyz/d/esign/esign_4.8.2_unsigned.ipa",
+      "versionDescription" : "Note: might be outdated",
+      "size" : 118920,
+      "versions" : [
+        {
+          "version" : "4.8.2",
+          "date" : "2023-05-25",
+          "localizedDescription" : "Note: might be outdated",
+          "downloadURL" : "https://pan.yyyue.xyz/d/esign/esign_4.8.2_unsigned.ipa",
+          "size" : 118920
+        }
+      ],
+      "beta" : false
+    },
+	{
       "name" : "Twitter++",
       "bundleIdentifier" : "com.atebits.Tweetie2",
       "developerName" : "BandarHL",
@@ -643,7 +672,7 @@
       "appID" : "com.google.ios.youtube.uxube",
       "notify" : true
     },
-    {
+{
       "beta": true,
       "bundleIdentifier": "org.haxi0.santander",
       "developerName": "haxi0",
@@ -1542,228 +1571,6 @@
           "localizedDescription" : "• Updated Pokemon Go to v0.265.0",
           "size" : 115000000,
           "version" : "0.265.0"
-        }
-      ]
-    }
-  ],
-  "news" : [
-    {
-      "appID": "org.haxi0.santander",
-      "caption": "Santander, a new, enhanced File Manager for MDC devices has been added to the source! Click here for more info",
-      "date": "2023-05-21",
-      "identifier": "santander-added",
-      "imageURL": "https://onejailbreak.com/site/assets/files/1337/santander-app.766x0.webp",
-      "notify": false,
-      "tintColor": "596d8d",
-      "title": "Santander (MDC) Added!"
-    },
-    {
-      "appID" : "com.simplycode.PostBox",
-      "caption" : "get the latest sideloading/jailbreak news with PostBox! Click here for more info",
-      "date" : "2023-05-14",
-      "identifier" : "postbox-added",
-      "imageURL" : "https://pbs.twimg.com/media/FY3DHpyVsAAaacC?format=jpg&name=4096x4096",
-      "notify" : false,
-      "tintColor" : "b3b3b3",
-      "title" : "PostBox Added!"
-    },
-    {
-      "appID" : "com.antique.emuThreeDS",
-      "caption" : "emuThreeDS - A Nintendo 3DS emulator for IOS - Has been added to the source! Click here for more info",
-      "date" : "2023-05-13",
-      "identifier" : "emuthreeds-added",
-      "imageURL" : "https://4.bp.blogspot.com/-zABvcegZKew/XtFB_QkSdOI/AAAAAAAACzU/RoxaVZI6MFUn571uN_MxbngO3JuqIf5-wCLcBGAsYHQ/s1600/How-to-play-Nintendo-3ds-on-Android-using-citra.jpg",
-      "notify" : false,
-      "tintColor" : "363634",
-      "title" : "emuThreeDS Added!"
-    },
-    {
-      "appID" : "org.ppsspp.ppsspp",
-      "caption" : "PPSSPP - the best and only PSP emulator for iOS - has been added to the source! Click here for more info",
-      "date" : "2023-05-14",
-      "identifier" : "ppsspp-added",
-      "imageURL" : "https://i.redd.it/r5s2xfoudhka1.jpg",
-      "notify" : false,
-      "tintColor" : "21486b",
-      "title" : "PPSSPP Added!"
-    },
-    {
-      "appID" : "com.litritt.ignited",
-      "caption" : "Ignited - the all-in-one classic video game emulator - has been added to the source! Click here for more info",
-      "date" : "2023-05-14",
-      "identifier" : "ignited-added",
-      "imageURL" : "https://i.imgur.com/n8KAVJ0.png",
-      "notify" : false,
-      "tintColor" : "FF6A00",
-      "title" : "Ignited Added!"
-    },
-    {
-      "appID" : "com.tigisoftware.Filza",
-      "caption" : "Filza for MacDirtyCow devices has been added to the source! Click here for more info",
-      "date" : "2023-05-14",
-      "identifier" : "filza-mdc-added",
-      "imageURL" : "https://www.3u.com//upload/20190215/1550197612365079829.jpg",
-      "notify" : false,
-      "tintColor" : "047a9a",
-      "title" : "Filza (MDC) Added!"
-    },
-    {
-      "appID" : "com.DebianArch.ScarletPersonalXYZZZ",
-      "caption" : "Scarlet, a popular 3rd party App Store, has been added to the source! Don't forget to add my source ;)",
-      "date" : "2023-04-24",
-      "identifier" : "scarlet-added",
-      "imageURL" : "https://onejailbreak.com/site/assets/files/1478/scarlet.766x0.jpg",
-      "notify" : false,
-      "tintColor" : "8d2229",
-      "title" : "Scarlet Added!"
-    },
-    {
-      "appID" : "org.coolstar.odyssey",
-      "caption" : "The Odyssey jailbreak tool has been added to the source! ",
-      "date" : "2023-04-04",
-      "identifier" : "odyssey-added",
-      "imageURL" : "https://theodyssey.dev/assets/images/meta.png",
-      "notify" : false,
-      "tintColor" : "9766a7",
-      "title" : "Odyssey Added!"
-    },
-    {
-      "appID" : "org.coolstar.taurine",
-      "caption" : "The Taurine jailbreak tool has been added to the source!",
-      "date" : "2023-04-04",
-      "identifier" : "taurine-added",
-      "imageURL" : "https://taurine.app/assets/images/meta.png",
-      "notify" : false,
-      "tintColor" : "9e3a47",
-      "title" : "Taurine Added!"
-    },
-    {
-      "appID" : "science.xnu.undecimus",
-      "caption" : "The unc0ver jailbreaking tool has been added to the source! ",
-      "date" : "2023-04-04",
-      "identifier" : "unc0ver-added",
-      "imageURL" : "https://www.iclarified.com/images/news/70442/70442/70442-1280.jpg",
-      "notify" : false,
-      "tintColor" : "515151",
-      "title" : "Unc0ver Added!"
-    },
-    {
-      "appID" : "ru.nonamedude.iTorrent",
-      "caption" : "iTorrent has been added to the library! A torrent client for iOS with Files app support. ",
-      "date" : "2023-02-13",
-      "identifier" : "itorrent-added",
-      "imageURL" : "https://i.imgur.com/jnvDDpx.jpg",
-      "notify" : false,
-      "tintColor" : "b31c29",
-      "title" : "iTorrent Added!"
-    },
-    {
-      "appID" : "com.leemin.Cowabunga",
-      "caption" : "Cowabunga has been updated to the latest version, click here for more info",
-      "date" : "2023-05-14",
-      "identifier" : "cowabunga-updated",
-      "imageURL" : "https://i.imgur.com/4IT5NhG.png",
-      "notify" : true,
-      "tintColor" : "0d6425",
-      "title" : "Cowabunga Updated!"
-    },
-    {
-      "appID" : "p3.xyz.yyyue.esign",
-      "caption" : "ESign has been updated to the latest version, click here for more info.",
-      "date" : "2023-03-19",
-      "identifier" : "esign-updated",
-      "imageURL" : "https://www.omtk.vip/assets/imgs/esign-ipa.jpeg",
-      "notify" : true,
-      "tintColor" : "356ead",
-      "title" : "ESign Updated!"
-    },
-    {
-      "appID" : "it.ned.appdb-ios",
-      "caption" : "AppDB has been updated to the latest version, click here for more info",
-      "date" : "2023-04-06",
-      "identifier" : "appdb-updated",
-      "imageURL" : "https://cdn.dribbble.com/users/800322/screenshots/4344074/media/1dc8d0dc27053a759f74a4dcdc65e9a4.png",
-      "notify" : true,
-      "tintColor" : "0365a0",
-      "title" : "AppDB Updated!"
-    },
-    {
-      "appID" : "com.supercell.magic",
-      "caption" : "Clash of Clans on a modded server has been added to the source! Unlimited gems, elixir and gold! ",
-      "date" : "2023-04-05",
-      "identifier" : "clashofclans-added",
-      "imageURL" : "https://images.squarespace-cdn.com/content/v1/58af450eb3db2b0582612f1d/1497928929587-1TRIFOH1Z12MPP68YJNV/clash_of_clans_builder_village_-_Google_Search.jpg",
-      "notify" : false,
-      "tintColor" : "123047",
-      "title" : "Clash of Clans Added!"
-    },
-    {
-      "appID" : "com.supercell.scroll",
-      "caption" : "Clash Royale has been updated to the latest version, click here for more info!",
-      "date" : "2023-05-11",
-      "identifier" : "clashroyale-updated",
-      "imageURL" : "https://clashroyale.com/uploaded-images-blog/CR_facebook_share_02_180403_175322.jpg",
-      "notify" : true,
-      "tintColor" : "134771",
-      "title" : "Clash Royale Updated!"
-    },
-    {
-      "appID" : "com.rovio.AngryBirdsSpace",
-      "caption" : "Relive your childhood with the nostalgic, Angry Birds Space game!",
-      "date" : "2023-04-14",
-      "identifier" : "abs-added",
-      "imageURL" : "https://www.91-cdn.com/hub/wp-content/uploads/2014/06/Angry-Bird-Space.jpg",
-      "notify" : false,
-      "tintColor" : "091323",
-      "title" : "Angry Birds Space Added!"
-    },
-    {
-      "appID" : "com.rovio.angrybirdsstarwars",
-      "caption" : "Relive your childhood with the nostalgic, Angry Birds Star Wars game!",
-      "date" : "2023-04-14",
-      "identifier" : "absw-added",
-      "imageURL" : "https://www.gannett-cdn.com/media/USATODAY/GenericImages/2012/10/08/angry-birds-star-wars-splash_wide-16_9.jpg",
-      "notify" : false,
-      "tintColor" : "080814",
-      "title" : "Angry Birds Star Wars Added!"
-    },
-    {
-      "appID" : "com.nianticlabs.pokemongo",
-      "caption" : "Pokemon Go has been updated to the latest version, click here for more info",
-      "date" : "2023-05-11",
-      "identifier" : "pokemongo-updated",
-      "imageURL" : "https://editors.dexerto.com/wp-content/uploads/2023/03/30/PokemonGo.jpg",
-      "notify" : true,
-      "tintColor" : "184f99",
-      "title" : "Pokemon Go (w/ SpooferPro) Updated!"
-    },
-    {
-      "appID" : "com.leemin.Cowabunga",
-      "caption" : "This app has been removed, please use Cowabunga as they now offer this tweak",
-      "date" : "2023-04-01",
-      "identifier" : "nolimit-removed",
-      "imageURL" : "https://www.yaxod.com/wp-content/uploads/lucky-patcher-ios-iphone.jpg",
-      "notify" : true,
-      "tintColor" : "404040",
-      "title" : "WDBRemoveThreeAppLimit Removed!"
-    },
-    {
-      "caption" : "Click here join the server. A place to talk about sideloading, make requests, get support and give feedback!",
-      "date" : "2023-03-20",
-      "identifier" : "discord-info",
-      "imageURL" : "https://imgur.com/A4d8bGv.png",
-      "notify" : true,
-      "tintColor" : "5865f2",
-      "title" : "Join the Discord!",
-      "url" : "https://bit.ly/wuxuslibrary-discord"
-    },
-    {
-      "caption" : "Welcome to Oec's Library! This source contains all of your favourite emulators, games, jailbreaks, utilities, and more Updated Daily ;)",
-      "date" : "2023-02-08",
-      "identifier" : "welcome-message",
-      "notify" : true,
-      "tintColor" : "fe0002",
-      "title" : "Welcome to Oec's Library!"
     }
   ]
 }
