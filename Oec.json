@@ -11,14 +11,14 @@
      {
       "name" : "iVanced",
       "bundleIdentifier" : "com.google.ios.youtube.58X4ZT6ASM",
-      "developerName" : "Oectect",
+      "developerName" : "TherionRO",
       "subtitle" : "Youtube with cool logo :)",
       "localizedDescription" : "iVanced for YouTube is a modded application for iPhone user with or without jailbreak. iVanced supports adblocking,dislikes,skip sponsors (iSponsorBlock) and many more customizations and features! The app is also 100% free.",
       "iconURL" : "https://static.appdb.to/images/cydia-1900001075-icon-1685031655.png",
       "tintColor" : "00008B",
       "screenshotURLs" : [
-        "https://raw.githubusercontent.com/Oectect/Items/main/IMG_2390.png",
-        "https://raw.githubusercontent.com/Oectect/Items/main/IMG_2389.png"
+        "https://raw.githubusercontent.com/Oectect/Items/main/UYou0.png",
+        "https://raw.githubusercontent.com/Oectect/Items/main/Uyou1.png"
       ],
       "version" : "18.20.03",
       "versionDate" : "2023-05-25",
@@ -45,8 +45,8 @@
       "iconURL" : "https://esign.yyyue.xyz/ESignLogo200.png",
       "tintColor" : "5FBAEE",
       "screenshotURLs" : [
-        "https://raw.githubusercontent.com/Oectect/Items/main/Esign%20image.png",
-        "https://raw.githubusercontent.com/Oectect/Items/main/IMG_2391.png"
+        "https://raw.githubusercontent.com/Oectect/Items/main/Esign0.png",
+        "https://raw.githubusercontent.com/Oectect/Items/main/Esign.png"
       ],
       "version" : "4.8.2",
       "versionDate" : "2023-05-25",
@@ -104,14 +104,13 @@
       "iconURL" : "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/27/20/96/27209679-d337-1ef8-c443-4c986a4a677e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.webp",
       "tintColor" : "00ff00",
       "screenshotURLs" : [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/85/3c/6d/853c6dcc-509f-af17-1a68-5a14a1ddfcd6/tns.lgtxetwx.png/460x0w.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d0/00/a9/d000a923-fdb2-074c-29c9-b0b756210be3/tns.egimlxov.png/460x0w.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/7d/1b/c9/7d1bc96c-d220-6613-031c-e04dfd587375/tns.jhthyhvf.png/460x0w.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/f3/fc/45/f3fc4501-0e63-4c86-c843-d62f024cb72e/tns.beyxhlrn.png/460x0w.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/9e/a8/70/9ea87049-d4ce-ba8b-0186-a06f7daec44c/tns.qtcpgyze.png/460x0w.webp",
-	"https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f9/5f/74/f95f7417-abd2-1da0-df60-25c5b4cc7b42/tns.xletkwju.png/460x0w.webp",
-	"https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/71/50/25/7150254b-c1fe-0f0a-3080-d132ec1df02b/tns.kxzrjpco.png/460x0w.webp",
-	"https://is1ssl.mzstatic.com/image/thumb/Purple124/v4/66/d8/e5/66d8e526-9452-3aef-929c-1e91c675512a/7c022d98-f86f-4b31-8503-632ddcd73657_6.5-inch-screen9__U00283_U0029.png/460x0w.webp"
+        "https://raw.githubusercontent.com/Oectect/Items/main/Pic/duo1.png",
+        "https://raw.githubusercontent.com/Oectect/Items/main/Pic/duo2.png",
+        "https://raw.githubusercontent.com/Oectect/Items/main/Pic/duo3.png",
+        "https://raw.githubusercontent.com/Oectect/Items/main/Pic/duo4.png",
+        "https://raw.githubusercontent.com/Oectect/Items/main/Pic/duo5.png",
+	"https://raw.githubusercontent.com/Oectect/Items/main/Pic/duo6.png",
+	"https://raw.githubusercontent.com/Oectect/Items/main/Pic/duo7.png"
       ],
       "version" : "6.196.0",
       "versionDate" : "2023-06-05",
