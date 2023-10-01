@@ -1,6 +1,6 @@
 {
   "name" : "オテクトNFFT Library",
-  "identifier" : "com.NFFT.oectectlibrary",
+  "identifier" : "com.NFFT.oectect.library",
   "subtitle" : "Fun for the user not for the creator",
   "description" : "オテクト No Fun For Them (NFFT) ライブラリへようこそ。ここでアプリから広告を削除します, Welcome to Oectect No Fun For Them (NFFT) library this is where I remove ads from apps",
   "iconURL" : "https://as2.ftcdn.net/v2/jpg/01/10/40/01/1000_F_110400105_16eWHfigBYOOjhUspaShBaodDFFhftfW.jpg",
@@ -8,7 +8,8 @@
   "website" : "https://github.com/Oectect/Items/main/test.json",
   "tintColor" : "3b96db",
   "apps" : 
-    {"beta":false,
+    {
+      "beta":false,
       "bundleIdentifier":"No.Fun.For.Them.ShowMania ",
       "developerName":"O3C",
       "downloadURL":"https://raw.githubusercontent.com/Oectect/Items/main/ShowMania_1.0.5_nofunforthem.ipa",
@@ -28,6 +29,27 @@
       "versionDescription":"No ads but couldn’t remove the tracking so click don’t allowed.\n- O3C\n"}],
   "identifier":"com.OEC.ShowMania.io",
   "name":"ShowMania ",
+  {
+      "beta": false,
+      "bundleIdentifier": "com.TherionRO.ios.iVanced",
+      "developerName": "TherionRO",
+      "downloadURL": "https://github.com/TherionRO/YouTubeiVanced/releases/download/release18.20.03/iVanced_18.20.3.ipa",
+      "iconURL": "https://static.appdb.to/images/cydia-1900001075-icon-1685031655.png",
+      "localizedDescription": "iVanced for YouTube is a modded app providing more features over the standard YouTube app.\niVanced is maintained by TherionRO on github:\n[Click here to get redirected to iVanced Github]https://github.com/TherionRO/YouTubeiVanced\n\nNote : iVanced for YouTube is a fork of uYou/uYouPlus based on the latest version of youtube,a rolling release with extended life support and likely more unstable.Keep in mind that I cannot opensource the uYou tweak and the YouTube app as this is not legal.\n\n \n\n\niVanced is a rolling release,most likely based on the latest YouTube version,and will provide you exclusive features such as:\n\n\n-Adblocking,stop wasting time and enjoy more videos!\n\n\n-Return the dislike button\n\n\n-iSponsorBlock,blocks youtubers sponsorship segments,intros,outros,subscribe reminders and more!\n\n\n-A/B settings\n\n\n-uYou features\n\n\n-Theming and customization features\n\n \n\n \n\nThank you for using iVanced,please check it out on github :\n\n\nhttps://github.com/TherionRO/YouTubeiVanced",
+      "name": "YouTube iVanced",
+      "screenshotURLs": [
+        "https://static.appdb.to/images/cydia-1900001075-iphone-0-1685031655.png",
+        "https://static.appdb.to/images/cydia-1900001075-iphone-1-1685031655.png",
+        "https://static.appdb.to/images/cydia-1900001075-iphone-2-1685031655.png"
+      ],
+      "size": 116000000,
+      "subtitle": "iVanced for YouTube",
+      "tintColor": "007dd0",
+      "version": "18.20.03",
+      "versionDate": "2024-05-25T14:00:00-07:00",
+      "versionDescription": "iVanced for YouTube 18.20.03 .Follow the project on github for more info : iVanced Repo Github .\n\n- Updated YouTube Base\n\n- Bug fixes\n\n- Added the FLEX tweak for debug\n\n- uYou Updated\n\n- All plugins and extensions updated\n\n- Performance bug fixes\n\n- Everything should load faster\n\n- App should be way smoother compared to old builds\n\ngithub : https://github.com/TherionRO/YouTubeiVanced .\n\nThank you!"
+    }
+  ],
   "news":[],
   "userInfo":{}
 }
