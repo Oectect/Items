@@ -1,13 +1,13 @@
 {
-  "name" : "Oectect Library",
-  "identifier" : "com.oeclibrary.oectectlibrary",
-  "subtitle" : "The Most Up-To-Date IPA Library on AltStore.",
-  "description" : "Welcome to Oectect library this is a combined source of wuxu/",
-  "iconURL" : "https://i.imgur.com/g17kMl9.png",
-  "headerURL" : "https://i.pinimg.com/736x/2e/4c/7c/2e4c7cc6b2a52a3113b6f1328d9d1e97.jpg",
-  "website" : "https://bit.ly/wuxus-sources",
-  "tintColor" : "d81a14",
-  "apps" : [
+  "name" : "オテクトNFFT Library",
+  "identifier" : "com.NFFT.oectectlibrary",
+  "subtitle" : "Fun for the user not for the creator",
+  "description" : "オテクト No Fun For Them (NFFT) ライブラリへようこそ。ここでアプリから広告を削除します, Welcome to Oectect No Fun For Them (NFFT) library this is where I remove ads from apps",
+  "iconURL" : "https://as2.ftcdn.net/v2/jpg/01/10/40/01/1000_F_110400105_16eWHfigBYOOjhUspaShBaodDFFhftfW.jpg",
+  "headerURL" : "https://www.nippon.com/en/ncommon/contents/japan-data/138490/138490.jpg",
+  "website" : "https://github.com/Oectect/Items/main/test.json",
+  "tintColor" : "3b96db",
+  "apps" : 
     {"beta":false,
       "bundleIdentifier":"No.Fun.For.Them.ShowMania ",
       "developerName":"O3C",
