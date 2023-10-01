@@ -1,4 +1,5 @@
 {
+  {
   "name" : "オテクトNFFT Library",
   "identifier" : "com.NFFT.oectect.library",
   "subtitle" : "Fun for the user not for the creator",
@@ -64,4 +65,5 @@
 }
   ],
   "userInfo":{}
+},
 }
