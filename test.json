@@ -1,4 +1,5 @@
 {
+ [
   {
   "name" : "オテクトNFFT Library",
   "identifier" : "com.NFFT.oectect.library",
@@ -66,4 +67,5 @@
   ],
   "userInfo":{}
 },
+]
 }
